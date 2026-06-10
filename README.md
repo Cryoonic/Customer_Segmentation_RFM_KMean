@@ -4,7 +4,7 @@ This project analyzes customer purchasing behavior using RFM Analysis and K-Mean
 
 ## Dashboard Preview
 
-![Dashboard Preview](Dashboard/Preview Dashboard.png)
+![Dashboard Preview](Dashboard/Preview_Dashboard.png)
 
 ## Project Objectives
 
